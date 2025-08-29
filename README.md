@@ -1,5 +1,5 @@
 # Microsoft Model Context Protocol (MCP) Servers
-
+Hello! I’m making my first contribution
 This repository catalogs various Microsoft implementations of the Model Context Protocol (MCP), an open standard that facilitates seamless integration between AI applications and external data sources and tools. MCP enables AI models to access the context they need to perform tasks effectively.
 
 ---
